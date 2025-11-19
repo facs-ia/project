@@ -3,6 +3,8 @@ Projeto A3 - Inteligência Artificial
 
 2025.2 - Universidade Salvador (UNIFACS) - Ânima Educacional Prof. Adailton Cerqueira Junior.
 
-Link de acesso Colab trainamento Keras: https://colab.research.google.com/drive/1R7mDvVr4dV1PQltapCDwNt-XxOa88g8l?usp=sharing
+Os códigos fontes relevantes encontram-se na pasta "código fonte", em conjunto com o dataset utilizado e um README com instruções adicionais.
 
-Lembrete: acessos simultâneos no Colab não deu certo, utilizem arquivos .ipynb em sessões próprias
+O poster confeccionado para a apresentação encontra-se na pata "poster".
+
+Os códigos fontes de rascunhos utilizando outras bibliotecas encontram-se na pasta "trash".
