@@ -12,4 +12,4 @@ Caso ocorra algum erro no download automático, o dataset pode ser encontrado ta
 
 ou na sua fonte original: https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
 
-Caso opte por baixar o dataset, o mesmo deve ser descompactado antes de executar o notebook.
+Caso opte por baixar manualmente o dataset, o mesmo deve ser descompactado e movido para a mesma pasta onde o arquivo do notebook se encontra.
